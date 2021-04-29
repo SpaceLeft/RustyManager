@@ -57,4 +57,4 @@ If you don't want to edit the code of the bot, a permanent online version is ava
 
 ## Customized version:
 If you want to edit the bot's code and host it on your machine, it's possible!
-You must follow the [installation guide](i will do it) to properly install it! Don't worry, it's fast and simple if you follow the guide!
+You must follow the [installation guide](https://github.com/SpaceLeft/RustyManager/blob/master/LICENSE) to properly install it! Don't worry, it's fast and simple if you follow the guide!
