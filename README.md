@@ -5,8 +5,11 @@
 ## ✨ Features:
 
 > 😊 Total сommands In The RustyManager is **17 commands** and more soon.
+
 > 🚀 24/7 Rusty Manager online.
+
 > 🔓 Open source.
+
 > 🔋 MongoDB Database.
 
 ### 🎁 Giveaway commands:
