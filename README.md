@@ -55,8 +55,6 @@ gblacklistr           Remove user from blacklist.
 ## Non-customized version:
 If you don't want to edit the code of the bot, a permanent online version is available, which you can invite to your own Discord!.
 
-[![RustyManager Bot](https://discordbots.org/api/widget/522332555991711755.svg)](https://discordbots.org/bot/522332555991711755)
-
 ## Customized version:
 If you want to edit the bot's code and host it on your machine, it's possible!
 You must follow the [installation guide](i will do it) to properly install it! Don't worry, it's fast and simple if you follow the guide!
