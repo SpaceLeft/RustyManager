@@ -1,9 +1,9 @@
 <img width="150" height="150" style="float: left; margin: 0 10px 0 0;" alt="Rusty Manager" src="./assets/logo.png">  
 
-# ManageGift
+# RustyManager
 
 [![online bot](https://discordbots.org/api/widget/status/522332555991711755.png)]
-[![version](https://img.shields.io/github/package-json/v/Hadi-Koubeissi/ManageGift?color=%23dd2349&style=flat-square)](https://github.com/SpaceLeft/RustyManager)
+[![version](https://img.shields.io/github/package-json/v/SpaceLeft/RustyManager?color=%23dd2349&style=flat-square)](https://github.com/SpaceLeft/RustyManager)
 [![](https://img.shields.io/badge/discord.js-v12.2.0-blue.svg?logo=npm&style=flat-square)](https://github.com/discordjs)
 [![discord](https://img.shields.io/discord/710852417100578849?color=blue&label=DISCORD&style=flat-square)](https://discord.gg/TueJ9BXpmT)
 > Rusty Manager is very easy and simple for use on your server, and using `discord-giveaways` package.
@@ -41,10 +41,10 @@ gsetprefix            Set bot prefix for your guild.
 ### ⁉ Info commands:
 
 ```
-ghelp                 Display ManageGift commands.
-stats                 Display info for ManageGift.
+ghelp                 Display Rusty commands.
+stats                 Display info for Rusty.
 gping                 Display bot Latency.
-ginvite               Display main links of ManageGift.
+ginvite               Display main links of Rusty.
 ```
 
 
