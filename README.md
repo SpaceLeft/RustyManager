@@ -1,5 +1,4 @@
 <img width="150" height="150" style="float: left; margin: 0 10px 0 0;" alt="Rusty Manager" src="./assets/logo.png">  
-<h3 align=center>A fully customizable bot built with <a href=https://github.com/discordjs/discord.js>discord.js</a></h3>
 
 <div align=center>
 <h1 align="center">
