@@ -17,42 +17,41 @@ RustyManager
 ### 🎁 Giveaway commands:
 
 ```
-gstart                Create giveaway(Without a mention room).
-gcreate               Create giveaway(with mention room).
-gedit                 Edit giveaway.
-gdelete               Delete giveaway.
-gend                  End giveaway.
-reroll                Choose new winners.
+      gstart                Create giveaway(Without a mention room).
+      gcreate               Create giveaway(with mention room).
+      gedit                 Edit giveaway.
+      gdelete               Delete giveaway.
+      gend                  End giveaway.
+      reroll                Choose new winners.
 ```
 
 
 ### 🔥 Featured commands:
 
 ```
-gsetlang              Сhange the language EN/AR/RU/UA/TR Supporter
-gsetmention [on/off]  Activate or disable the mention if giveaway start.
-gsetrole [on/off] 
-{rolename}             Set default role for your guild.
-gsetprefix            Set bot prefix for your guild.
+   gsetlang              Сhange the language EN/AR/RU/UA/TR Supporter
+   gsetmention [on/off]  Activate or disable the mention if giveaway start.
+   gsetrole [on/off] {rolename}  Set default role for your guild.
+   gsetprefix   Set bot prefix for your guild.
 ```
 
 
 ### ⁉ Info commands:
 
 ```
-ghelp                 Display Rusty commands.
-stats                 Display info for Rusty.
-gping                 Display bot Latency.
-ginvite               Display main links of Rusty.
+ghelp      Display Rusty commands.
+stats      Display info for Rusty.
+gping      Display bot Latency.
+ginvite    Display main links of Rusty.
 ```
 
 
 ### 👑 Owner commands: 
 
 ```
-geval                 Execute javascript code.
-gblacklist            Add user or guild to blacklist.
-gblacklistr           Remove user from blacklist.
+geval        Execute javascript code.
+gblacklist   Add user or guild to blacklist.
+gblacklistr  Remove user from blacklist.
 ```
 
 ### 📲 Installation:
