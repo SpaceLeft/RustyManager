@@ -1,6 +1,6 @@
 <img width="150" height="150" style="float: left; margin: 0 10px 0 0;" alt="Rusty Manager" src="./assets/logo.png"> 
  
-#RustyManager
+## RustyManager
 
 ## ✨ Features:
 
@@ -15,7 +15,6 @@
 ### 🎁 Giveaway commands:
 
 ```
-
 gstart   Create giveaway(Without a mention room).
 gcreate  Create giveaway(with mention room).
 gedit    Edit giveaway.
