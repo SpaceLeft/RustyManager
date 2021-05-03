@@ -1,7 +1,8 @@
 <img width="150" height="150" style="float: left; margin: 0 10px 0 0;" alt="Rusty Manager" src="./assets/logo.png">  
 
-# RustyManager
-
+<h1 align="center">
+RustyManager
+</h1>
 ## ✨ Features:
 
 > 😊 Total сommands In The RustyManager is **17 commands** and more soon.
