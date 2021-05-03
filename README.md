@@ -17,12 +17,22 @@ RustyManager
 ### 🎁 Giveaway commands:
 
 ```
-      gstart                Create giveaway(Without a mention room).
-      gcreate               Create giveaway(with mention room).
-      gedit                 Edit giveaway.
-      gdelete               Delete giveaway.
-      gend                  End giveaway.
-      reroll                Choose new winners.
+
+<div align=center>
+<h1 align="center">
+gstart
+gcreate
+gedit
+gdelete
+reroll
+gend
+</h1>
+                      Create giveaway(Without a mention room).
+                     Create giveaway(with mention room).
+                       Edit giveaway.
+                     Delete giveaway.
+                        End giveaway.
+                      Choose new winners.
 ```
 
 
